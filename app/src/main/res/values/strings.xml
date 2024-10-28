@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <!--Intent eksplisit-->
+    <string name="move_activity">Pindah Aktivitas</string>
+    <string name="this_is_move_activity">Ini hasil pindah Aktivitas</string>
+    <string name="back_activity">Aktivitas Kembali</string>
+    <!--Intent implisit-->
+    <string name="dial_number">Aktivitas Menelpon</string>
+</resources>
